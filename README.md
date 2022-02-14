@@ -37,31 +37,14 @@ You have an iOS App. Let's imagine, we are developing an app for iOS. You could 
 ## Solution
 - Demonstrated mastery of advanced programming concepts in swift for Apple platforms, including
 	- MVVM or VIP (Clean Swift) application architecture
-	- Protocol-oriented programming
-	- Object-oriented programming
-	- Generics, Extensions
-	- Class, object, and attribute privacy and access-control levels
-	- The Codable protocol
-	- Working with RESTful APIs & raw JSON data
-	- You can use Alamofire,Moye URLSession & native networking in Swift (Moya preferred)
-	- Demonstrated experience working with data structures that are relevant to the assignment
-	- Strategies for proper sourcing & instantiation of interface builder .xib & .storyboard files that belong to an encapsulated framework
-	- Variable autolayout traits for universal applications (iOS & iPadOS) that support all device classes & device orientations
+	- Protocol-oriented programming 
+	- The Codable protocol 
+	- You can use Alamofire,Moye URLSession & native networking in Swift (Moya preferred) 
+	- Storyboard or XIB
 
 > Protip: if you feel as though you are adding something that is listed as a goal, but you do not feel that you have a good or clear justification for where or why you are adding it, you may be adding that feature / functionality in the wrong or non-optimal part of your assignment’s codebase.
  
  **Additional Important Info**
-- Check your local version of Xcode
-	- The very **latest release version** of Xcode is required.
-		- Beta versions of Xcode should **not** be used.
-- Check your local swift version.
-	- **Swift version 5.2 (or higher)** (installed with latest Xcode)
-- Check your local swift-tools version.
-	- **Swift-Tools version 5.2 (or higher)** is required
-	- Install from [Swift.org](https://swift.org) if your local tools are not 5.2 or higher (should be by default when installing Xcode)
-- The targeted iOS version for any submission should be **iOS 13.0**
-	- In general, make sure to double check your project settings.
-	- There is a starter project with some of this configured already, but you’ll need to make sure the final matches the requirements.
- 
+- Xcode 13.2 and Swift 5 or higher
 Please push your project to GitHub and share the related URL with us.  
 
