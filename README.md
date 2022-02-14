@@ -1,4 +1,4 @@
-# Senior-iOS-Developer-Challange
+# Senior iOS Developer Challange
  
 ## Table of Contents
 - [Summary](#summary)
