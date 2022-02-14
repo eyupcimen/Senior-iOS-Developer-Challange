@@ -41,10 +41,7 @@ You have an iOS App. Let's imagine, we are developing an app for iOS. You could 
 	- The Codable protocol 
 	- You can use Alamofire,Moye URLSession & native networking in Swift (Moya preferred) 
 	- Storyboard or XIB
+	- Xcode 13.2 and Swift 5 or higher
 
-> Protip: if you feel as though you are adding something that is listed as a goal, but you do not feel that you have a good or clear justification for where or why you are adding it, you may be adding that feature / functionality in the wrong or non-optimal part of your assignment’s codebase.
- 
- **Additional Important Info**
-- Xcode 13.2 and Swift 5 or higher
 Please push your project to GitHub and share the related URL with us.  
-
+ 
